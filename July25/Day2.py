@@ -7,3 +7,4 @@ class Solution:
         return count
 solution=Solution()
 print(solution.possibleStringCount("aaaabbbccc"))
+
